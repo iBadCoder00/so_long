@@ -1,0 +1,25 @@
+/* XPM */
+static char *coin1713508078[] = {
+/* columns rows colors chars-per-pixel */
+"16 14 5 1 ",
+"  c #B0C4DE",
+". c #14182E",
+"X c #CF752B",
+"o c #F0B541",
+"O c #FFEE83",
+/* pixels */
+"      ....      ",
+"    ..OOOO..    ",
+"   .OooooooO.   ",
+"  .OooooooooO.  ",
+"  .oooooooooo.  ",
+" .OooooooooooO. ",
+" .oooooooooooo. ",
+" .oooooooooooo. ",
+" .XooooooooooX. ",
+"  .oooooooooo.  ",
+"  .XooooooooX.  ",
+"   .XXooooXX.   ",
+"    ..XXXX..    ",
+"      ....      "
+};

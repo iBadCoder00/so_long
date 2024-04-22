@@ -1,0 +1,38 @@
+/* XPM */
+static char *lrun_frame61713381308[] = {
+/* columns rows colors chars-per-pixel */
+"16 26 6 1 ",
+"  c #B0C4DE",
+". c black",
+"X c #3A0911",
+"o c #811426",
+"O c #A11B31",
+"+ c white",
+/* pixels */
+"    XXXXXXX     ",
+"   XOOOOOOoX    ",
+"  XOXXXXOOOoX   ",
+" XOX....XOOOoX  ",
+"XOX......XOOoX  ",
+"XOX......XOOooX ",
+"XOX+...+.XOoooX ",
+"XOX+...+.XOoXoX ",
+"XoX......XOoXX  ",
+"XoX.....XOooX   ",
+" XoX...XoooX    ",
+"  XoXXXooXXoX   ",
+" XoOOOOOOOOOoX  ",
+" XoOOOOOOOOOoX  ",
+" XOOOOOOOOOOOoX ",
+" XOOOOOOOOOOOoX ",
+" XoOOoXoOOOOOOoX",
+" XoOooXooOoOOooX",
+"XoooooXXooOooooX",
+"XooooX..XooooXXX",
+" XXooX..XooXX   ",
+"  XXX.  XXX     ",
+"    ..   .      ",
+"     .   .      ",
+"      ..  .     ",
+"          .     "
+};

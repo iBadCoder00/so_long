@@ -1,0 +1,37 @@
+/* XPM */
+static char *l_airborne1713424328[] = {
+/* columns rows colors chars-per-pixel */
+"19 25 6 1 ",
+"  c #B0C4DE",
+". c black",
+"X c #3A0911",
+"o c #811426",
+"O c #A11B31",
+"+ c white",
+/* pixels */
+"       XXXXXXX     ",
+"      XOOOOOOoXXXX ",
+"     XOXXXXOOOooooX",
+"    XOX....XOOOoooX",
+"   XOX......XOOooX ",
+"   XOX......XOOoX  ",
+"   XOX......XOoX   ",
+"   XOX+...+.XOoX   ",
+"   XoX+...+.XOoX   ",
+"   XoX.....XOooX   ",
+"    XoX...XoooX    ",
+"     XoXXXooXX     ",
+"   XXoOOOOOoooXX   ",
+" XXooOOOOOOOOOooXX ",
+"XooooOOOOOOOOOooooX",
+"XooOOOOOOOOOOOooooX",
+"XoXOOOOOoOOOOOOoooX",
+" XooOOOoXoOoOXoooX ",
+"  XXoOooXoooXooXX  ",
+"    XXXX.XXXXXX    ",
+"      .......      ",
+"      ..   ..      ",
+"      .    ..      ",
+"      .    .       ",
+"       .    .      "
+};
