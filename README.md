@@ -26,4 +26,9 @@ The linux mlx has a buggy feature where the transparency of the .xpm isn't handl
 
 I've included a small linux program that draws a [n x m] empty map if you wish to test it with different sizes (the background may be weird if sizes are too big due to the library not resizing backround images).
 ### Final grade
-125/125
+125/125  
+
+Here is a rough preview of the game with the buggy mlx library  
+![so_long](https://github.com/user-attachments/assets/738f3c62-cb0e-4334-846f-b411ed70c1ba)
+
+
